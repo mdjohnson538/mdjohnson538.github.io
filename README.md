@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-johnson-366b95140/)
 
-"Pop Shop III" by Keith Haring
+
 <!-- Your Profile Image -->
 <img src="profile_image.png" alt=""Pop Shop III" by Keith Haring" width="200">
 
