@@ -4,7 +4,7 @@
 
 
 <!-- Your Profile Image -->
-<img src="profile_image.png" alt=""Pop Shop III" by Keith Haring" width="200">
+<img src="profile_image.png" alt="Profile Image" width="200">
 
 
 ## About Me
