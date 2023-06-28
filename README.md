@@ -10,25 +10,27 @@
 
 ## About Me
 
-Introduce yourself and mention your professional interests, expertise, and accomplishments. Keep it concise and engaging. You can use a combination of text and images to make it visually appealing.
+I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence and system response, health and human service-related advocacy efforts, and political representation.  
+
 
 ## Projects
 
-List your notable projects along with a brief description. Include links to the project repositories or deployed versions.
+A handful of select recent projects include:
 
-### Project 1
+### PAVE
 
 ![Project 1](project1_thumbnail.png)
 
 A brief description of the project.
 
-### Project 2
 
-![Project 2](project2_thumbnail.png)
+### Nebraska Intimate Partner & Sexual Violence Survey
+
+![Project 3](project3_thumbnail.png)
 
 A brief description of the project.
 
-### Project 3
+### Who is Not Served?: Barriers to Helpseeking for Sexual Violence Survivors in Rural Nebraska
 
 ![Project 3](project3_thumbnail.png)
 
@@ -43,12 +45,6 @@ Highlight your technical skills or areas of expertise. You can use icons or tags
 - Databases: PostgreSQL, MongoDB
 - Other skills: Git, Docker, AWS
 
-## Blog
-
-If you maintain a technical blog, you can include a section to showcase your latest blog posts. Provide links to the articles or a brief summary.
-
-- [Blog Post 1](https://your-blog-url.com/post-1): A brief summary of the blog post.
-- [Blog Post 2](https://your-blog-url.com/post-2): A brief summary of the blog post.
 
 ## Contact
 
@@ -56,6 +52,5 @@ Include your contact information, such as an email address or any other preferre
 
 Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) for any inquiries or collaboration opportunities.
 
----
 
-Thank you for visiting my profile! Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or check out my [website](https://your-website-url.com/) for more information and projects.
+
