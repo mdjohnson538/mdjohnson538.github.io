@@ -1,4 +1,4 @@
-# Mark D. Johnson - Omaha NE.
+# Mark D. Johnson - Omaha, NE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-johnson-366b95140/)
 
@@ -6,6 +6,7 @@
 <!-- Your Profile Image -->
 <img src="profile_image.png" alt="Profile Image" width="500">
 
+"Pop Shop III" by Keith Haring
 
 ## About Me
 
