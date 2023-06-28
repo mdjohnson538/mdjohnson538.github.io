@@ -1,11 +1,11 @@
-# Your Name
+# Mark D. Johnson - Omaha NE.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square)](https://your-website-url.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-johnson-366b95140/)
+
 
 <!-- Your Profile Image -->
-<img src="profile_image.png" alt="Profile Image" width="200">
+<img src="profile_image.png" alt="1 Pop Shop III by keith Haring" width="200">
+
 
 ## About Me
 
