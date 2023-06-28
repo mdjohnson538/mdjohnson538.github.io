@@ -17,6 +17,12 @@ I'm interested in the application of social and data science to real-world probl
 
 A handful of select recent projects include:
 
+### Nebraska's Intimate Partner & Sexual Violence Response Community: A Needs Assessment Concerning Allocation of American Rescue Plan Resources
+
+![Project 1](project1_thumbnail.png)
+
+A brief description of the project.
+
 ### PAVE
 
 ![Project 1](project1_thumbnail.png)
