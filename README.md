@@ -4,7 +4,7 @@
 
 "Pop Shop III" by Keith Haring
 <!-- Your Profile Image -->
-<img src="profile_image.png" alt=""Pop Shop III" by Keith Haring" width="500">
+<img src="profile_image.png" alt=""Pop Shop III" by Keith Haring" width="200">
 
 
 ## About Me
