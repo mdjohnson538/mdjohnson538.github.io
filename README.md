@@ -4,7 +4,7 @@
 
 
 <!-- Your Profile Image -->
-<img src="profile_image.png" alt="Profile Image" width="200">
+<img src="profile_image.png" alt="Profile Image" width="500">
 
 
 ## About Me
