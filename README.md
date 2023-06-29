@@ -13,6 +13,20 @@ I'm interested in the application of social and data science to real-world probl
 Disclaimer: I am no web designer (read: chat gpt wrote the code for this site & I filled in the blanks)
 
 
+## Skills
+
+- Scripting languages: R (the collection of tidyverse packages in particular), Python
+
+<img src="R_logo.svg.png" alt="Project 1" width="150"><img src="ggplot_hive.png" alt="Project 1" width="150"><img src="python4.png" alt="Project 1" width="150">
+
+- Other skills: Frequentist probability, Bayesian probability, analytic writing, grant writing, data storytelling
+<img src="cartoon.png" alt="Project 1" width="300">
+
+## Education
+
+- Master of Arts – Political Science - University of Memphis (2017)
+- Bachelor of Science - Political Science & Philosophy - University of Nebraska (2015)
+
 ## Projects
 A handful of recent projects include:
 
@@ -42,22 +56,6 @@ PAVE is a platform that facilitates best practices and creates a single screenin
 ### State of Domestic Violence in Douglas County, Nebraska 
 
 In collaboration with the Women's Fund of Omaha, I provide ongoing data analysis covering trends in system response to intimate partner violence in Douglas County, Nebraska. This project leverages criminal justice data,  civil court data, and scraped data from public domains. This project is 5+ years in the making and has culminated in many deliverables. 
-
-
-## Skills
-
-- Scripting languages: R (the collection of tidyverse packages in particular), Python
-
-<img src="R_logo.svg.png" alt="Project 1" width="150"><img src="ggplot_hive.png" alt="Project 1" width="150"><img src="python4.png" alt="Project 1" width="150">
-
-- Other skills: Frequentist probability, Bayesian probability, analytic writing, grant writing, data storytelling
-<img src="cartoon.png" alt="Project 1" width="300">
-
-## Education
-
-- Master of Arts – Political Science - University of Memphis (2017)
-- Bachelor of Science - Political Science & Philosophy - University of Nebraska (2015)
-
 
 
 ## Contact
