@@ -8,7 +8,7 @@
 "Pop Shop III" by Keith Haring
 
 ## About Me
-I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence, health and human service-related advocacy efforts, public opinion, and political representation.   
+I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence, health and human service-related advocacy efforts, public opinion, and political representation.    
 
 Disclaimer: I am no web designer (read: chat gpt wrote the code for this site & I filled in the blanks)
 
