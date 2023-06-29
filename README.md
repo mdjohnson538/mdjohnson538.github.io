@@ -45,9 +45,10 @@ In collaboration with the Women's Fund of Omaha, I provide ongoing data analysis
 
 ## Skills
 
-Highlight your technical skills or areas of expertise. You can use icons or tags to make it more visually appealing.
-
-- Scripting languages: R, Python
+- Scripting languages: R (the collection of tidyverse packages in particular), Python
+  ![Skills](R_logo.svg.png)
+  ![Skills](ggplot_hive.png)
+  ![Skills](python4.png)
 - Other skills: Frequentist probability, Bayesian probability, analytic writing, grant writing, data storytelling
 
 ## Education
