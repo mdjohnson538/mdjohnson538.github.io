@@ -9,7 +9,7 @@
 "Pop Shop III" by Keith Haring
 
 ## About Me
-I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence and system response, health and human service-related advocacy efforts, and political representation.  
+I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence, health and human service-related advocacy efforts, and political representation.  
 
 Disclaimer: I am no web designer (chat gpt wrote the code for this site & I filled in the blanks)
 
@@ -21,38 +21,41 @@ A handful of select recent projects include:
 
 ![Project 1](project1_thumbnail.png)
 
-A brief description of the project.
+As a component of the American Rescue Plan Act of 2021, Nebraska was granted nearly $3.7 million in supplemental funding directed at improving our community’s ability to serve survivors of intimate partner & sexual violence. This project sought to evaluate the current landscape of Nebraska’s intimate partner & sexual violence response community to inform decision-making surrounding the allocation of these funds.
 
 ### Nebraska Intimate Partner & Sexual Violence Survey
 
 ![Project 3](project3_thumbnail.png)
 
-A brief description of the project.
+Launched in 2020, the Nebraska Statewide Intimate Partner and Sexual Violence Survey (SIPSVS) is the first-ever
+large-scale survey to assess sexual and intimate partner violence victimization among Nebraskans. 1,896 Nebraskan adults completed the survey & responses were weighted with regard to target demographics. 
 
 ### Who is Not Served?: Barriers to Helpseeking for Sexual Violence Survivors in Rural Nebraska
 
 ![Project 3](project3_thumbnail.png)
 
-A brief description of the project.
+This project investigated the extent to which Nebraska survivors of sexual violence seek out services from domestic violence and sexual assault (DVSA) programs serving rural communities as well as the factors surrounding survivors’ decisions to seek out help.
+
+### SAKI
+
+![Project 1](project1_thumbnail.png)
+
+The Sexual Assault Kit Initiative (SAKI) is a federal grant program that aims to address the high number of untested sexual assault kits in law enforcement custody. As part of this initiative, the City of Omaha was awarded SAKI funding to implement these goals locally. As part of my role with this project, I lead analysis efforts concerning SAKI inventory data, contributing to annual reports, grant reporting, and the Omaha SAKI website.
+
 
 ### PAVE
 
 ![Project 1](project1_thumbnail.png)
 
-A brief description of the project.
+PAVE is a platform that facilitates best practices and creates a single screening, assessment, and referral process for victims of trafficking. Currently, Nebraska's Department of Health & Human Services utilizes PAVE as its primary trafficking response tool. As part of my role with HTI Labs, I lead efforts behind the analysis of PAVE-generated data and community implementation efforts. 
 
-### LEADS
-
-![Project 1](project1_thumbnail.png)
-
-A brief description of the project.
 
 ## Skills
 
 Highlight your technical skills or areas of expertise. You can use icons or tags to make it more visually appealing.
 
 - Scripting languages: R, Python
-- Other skills: Frequentist probability, Bayesian probability, analytic writing, grant writing
+- Other skills: Frequentist probability, Bayesian probability, analytic writing, grant writing, data storytelling
 
 ## Education
 
