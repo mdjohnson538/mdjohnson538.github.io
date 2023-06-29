@@ -34,7 +34,7 @@ large-scale survey to assess sexual and intimate partner violence victimization 
 
 This project investigated the extent to which Nebraska survivors of sexual violence seek out services from domestic violence and sexual assault (DVSA) programs serving rural communities as well as the factors surrounding survivors’ decisions to seek out help.
 
-### SAKI
+### Omaha's Sexual Assault Kit Intiative
 
 ![Project 1](project1_thumbnail.png)
 
@@ -46,6 +46,12 @@ The Sexual Assault Kit Initiative (SAKI) is a federal grant program that aims to
 ![Project 1](project1_thumbnail.png)
 
 PAVE is a platform that facilitates best practices and creates a single screening, assessment, and referral process for victims of trafficking. Currently, Nebraska's Department of Health & Human Services utilizes PAVE as its primary trafficking response tool. As part of my role with HTI Labs, I lead efforts behind the analysis of PAVE-generated data and community implementation efforts. 
+
+### State of Domestic Violence in Douglas County, Nebraska
+
+![Project 3](project3_thumbnail.png)
+
+In collaboration with the Women's Fund of Omaha, I provide ongoing data analysis covering trends in system response to intimate partner violence in Douglas County, Nebraska. This project leverages criminal justice data,  civil court data, and scraped data from public domains. This project is 5+ years in the making and has culminated in many deliverables. 
 
 
 ## Skills
