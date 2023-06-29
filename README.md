@@ -17,7 +17,7 @@ A handful of select recent projects include:
 
 ### Nebraska's Intimate Partner & Sexual Violence Response Community: A Needs Assessment Concerning Allocation of American Rescue Plan Resources
 
-![Project 1](project1_thumbnail.png)
+![Project 1](needs_thumbnail.png)
 
 As a component of the American Rescue Plan Act of 2021, Nebraska was granted nearly $3.7 million in supplemental funding directed at improving our community’s ability to serve survivors of intimate partner & sexual violence. This project sought to evaluate the current landscape of Nebraska’s intimate partner & sexual violence response community to inform decision-making surrounding the allocation of these funds.
 
