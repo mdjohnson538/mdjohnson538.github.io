@@ -1,6 +1,4 @@
-# Mark D. Johnson - Omaha, NE
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-johnson-366b95140/)
+# Mark D. Johnson - Omaha, NE. USA
 
  
 <!-- Your Profile Image -->
@@ -9,7 +7,7 @@
 "Pop Shop III" by Keith Haring
 
 ## About Me
-I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence, health and human service-related advocacy efforts, and political representation.  
+I'm interested in the application of social and data science to real-world problems, particularly within the contexts of intimate partner & sexual violence, health and human service-related advocacy efforts, public opinion, and political representation.  
 
 Disclaimer: I am no web designer (chat gpt wrote the code for this site & I filled in the blanks)
 
@@ -67,6 +65,8 @@ Highlight your technical skills or areas of expertise. You can use icons or tags
 ## Contact
 
 Feel free to reach out to me at [mdjohnson538@gmail.com](mailto:mdjohnson538@gmail.com) for any inquiries or collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-johnson-366b95140/)
 
 
 
