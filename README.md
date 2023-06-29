@@ -64,7 +64,6 @@ In collaboration with the Women's Fund of Omaha, I provide ongoing data analysis
 
 Feel free to reach out to me at [mdjohnson538@gmail.com](mailto:mdjohnson538@gmail.com) for any inquiries or collaboration opportunities.
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-johnson-366b95140/)
-
-
 
