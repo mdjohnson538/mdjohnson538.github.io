@@ -46,7 +46,7 @@ In collaboration with the Women's Fund of Omaha, I provide ongoing data analysis
 ## Skills
 
 - Scripting languages: R (the collection of tidyverse packages in particular), Python
-<img src="R_logo.svg.png" alt="Project 1" width="300">
+<img src="R_logo.svg.png" alt="Project 1" width="150"><img src="ggplot_hive.png" alt="Project 1" width="150">
   ![Skills](R_logo.svg.png)
   ![Skills](ggplot_hive.png)
   ![Skills](python4.png)
